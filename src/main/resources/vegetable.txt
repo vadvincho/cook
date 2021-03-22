@@ -1,0 +1,14 @@
+cucumber-gerasim black german 100 100
+cucumber-hutorok black slaviс 110 120
+cucumber-blick white asian 80 100
+tomato-apricot yellow round 150 250
+tomato-agafia red cylinder 170 170
+tomato-black_prince black round 200 120
+cabbage-beijing pekinensis white 140 400
+cabbage-savoy sabauda green 100 500
+cabbage-colored botrytis purple 170 350
+pepper-aries bell red 80 140
+pepper-capsicum bell yellow 50 120
+pepper-latino bell green 60 100
+pepper-jalapeno chilli green 20 30
+pepper-аresno chilli green 10 20 

@@ -1,0 +1,19 @@
+2021-03-22 16:43:40,478 DEBUG c.v.c.v.RestaurantVegetableStorage [main] Vegetable storage initialization was successful
+2021-03-22 16:43:40,494 INFO c.v.c.v.RestaurantVegetableStorage [main] No such vegetable in vegetable storage. Vegetable: cucumber-vegetable1
+2021-03-22 16:43:40,494 INFO c.v.c.v.RestaurantVegetableStorage [main] No such vegetable on vegetable factory. Vegetable: cucumber-vegetable1
+2021-03-22 16:43:40,494 INFO c.v.c.c.Chef [main] Salad can't be prepared with this recipe. You must choose another. java.util.NoSuchElementException
+2021-03-22 16:50:28,961 DEBUG c.v.c.v.RestaurantVegetableStorage [main] Vegetable storage initialization was successful
+2021-03-22 16:50:28,971 DEBUG c.v.c.v.RestaurantVegetableStorage [main] list of vegetables compiled according to the recipe
+2021-03-22 16:50:28,971 INFO c.v.c.c.Chef [main] Salad DIETARY_SALAD is ready
+2021-03-22 16:50:28,971 INFO c.v.c.c.Chef [main] Salad contains 501 calories
+2021-03-22 16:50:29,008 INFO c.v.c.c.Chef [main] Salad includes vegetables that contain 50 to 120 calories: [Cucumber{} Vegetable{name='cucumber-gerasim', calories=100, weight=100}, Pepper{} Vegetable{name='pepper-aries', calories=80, weight=140}]
+2021-03-22 16:50:29,024 INFO c.v.c.c.Chef [main] List of vegetable SORT_BY_CALORIES : [Pepper{} Vegetable{name='pepper-aries', calories=80, weight=140}, Cucumber{} Vegetable{name='cucumber-gerasim', calories=100, weight=100}, Tomato{} Vegetable{name='tomato-agafia', calories=170, weight=170}]
+2021-03-22 16:50:29,024 INFO c.v.c.c.Chef [main] List of vegetable SORT_BY_NAME : [Cucumber{} Vegetable{name='cucumber-gerasim', calories=100, weight=100}, Pepper{} Vegetable{name='pepper-aries', calories=80, weight=140}, Tomato{} Vegetable{name='tomato-agafia', calories=170, weight=170}]
+2021-03-22 16:50:29,045 INFO c.v.c.c.Chef [main] Salad SALAD_BY_CHEF is ready
+2021-03-22 16:50:29,045 INFO c.v.c.c.Chef [main] Salad contains 882 calories
+2021-03-22 16:50:29,045 INFO c.v.c.c.Chef [main] Salad includes vegetables that contain 50 to 120 calories: [Cucumber{} Vegetable{name='cucumber-blick', calories=80, weight=100}, Pepper{} Vegetable{name='pepper-capsicum', calories=50, weight=120}, Cabbage{} Vegetable{name='cabbage-savoy', calories=100, weight=500}]
+2021-03-22 16:50:29,045 INFO c.v.c.c.Chef [main] List of vegetable SORT_BY_CALORIES : [Pepper{} Vegetable{name='pepper-аresno', calories=10, weight=20}, Pepper{} Vegetable{name='pepper-capsicum', calories=50, weight=120}, Cucumber{} Vegetable{name='cucumber-blick', calories=80, weight=100}, Cabbage{} Vegetable{name='cabbage-savoy', calories=100, weight=500}, Tomato{} Vegetable{name='tomato-black_prince', calories=200, weight=120}]
+2021-03-22 16:50:29,045 INFO c.v.c.c.Chef [main] List of vegetable SORT_BY_NAME : [Cabbage{} Vegetable{name='cabbage-savoy', calories=100, weight=500}, Cucumber{} Vegetable{name='cucumber-blick', calories=80, weight=100}, Pepper{} Vegetable{name='pepper-capsicum', calories=50, weight=120}, Pepper{} Vegetable{name='pepper-аresno', calories=10, weight=20}, Tomato{} Vegetable{name='tomato-black_prince', calories=200, weight=120}]
+2021-03-22 16:50:29,045 DEBUG c.v.c.v.RestaurantVegetableStorage [main] No such vegetable in vegetable storage. Vegetable: cucumber-vegetable1
+2021-03-22 16:50:29,045 DEBUG c.v.c.v.RestaurantVegetableStorage [main] No such vegetable on vegetable factory. Vegetable: cucumber-vegetable1
+2021-03-22 16:50:29,045 INFO c.v.c.c.Chef [main] Salad can't be prepared with this recipe. You must choose another. java.util.NoSuchElementException
